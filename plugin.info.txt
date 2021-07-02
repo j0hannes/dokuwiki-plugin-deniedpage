@@ -1,7 +1,7 @@
 base   deniedpage
 author Benjamin Renard
 email  brenard@easter-eggs.com
-date   2013-04-17
+date   2020-08-04
 name   deniedpage plugin
 desc   Show specific page instead of denied message
 url    https://github.com/brenard/dokuwiki-plugin-deniedpage/zipball/master
